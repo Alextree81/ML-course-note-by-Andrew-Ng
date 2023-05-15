@@ -1,1 +1,1 @@
-# Prediction-of-Wild-Blueberry-Yield
+# Course Notes
